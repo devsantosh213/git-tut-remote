@@ -1,0 +1,15 @@
+{
+    "name": "santosh213/git-tut-remote",
+    "description": "teaching you how to use git with git hub",
+    "type": "project",
+    "require": {
+        "monolog/monolog": "^1.22"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "santosh",
+            "email": "devesantosh213@gmail.com"
+        }
+    ]
+}
